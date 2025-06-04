@@ -1,6 +1,7 @@
 ## LeaveRound(리브라운드)
 
-![logo](/uploads/1c42b4f9e75991a9e99b532e19b0a2c8/logo.png)
+![image](https://github.com/user-attachments/assets/9d916571-3a84-47a8-9702-de9a924191d8)
+
 
 ### 서비스 소개
 사용자 계좌의 잔돈을 자동으로 기부하는 서비스
@@ -17,7 +18,8 @@ https://j12a303.p.ssafy.io/
 
 <br/>
 
-![image__1_](/uploads/dc1dab8a6aaecce4b9ade3feb2b022df/image__1_.png)
+![image](https://github.com/user-attachments/assets/0e04b12c-c01b-49cb-bc37-e15d776409b3)
+
 
 ### 협업
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white">
